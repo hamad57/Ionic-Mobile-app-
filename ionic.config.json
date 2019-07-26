@@ -1,0 +1,7 @@
+{
+  "name": "sec3",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
